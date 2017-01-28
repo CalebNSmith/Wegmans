@@ -1,4 +1,4 @@
-__author__ = 'Caleb'
+__author__ = 'Caleb and Alex'
 import requests
 from bs4 import BeautifulSoup
 
